@@ -1,0 +1,19 @@
+{
+    "classes": [
+        "FAMILIAR",
+        "SOMEWHAT",
+        "AMBIGIOUS",
+        "UNFAMILIAR"
+    ],
+    "annotations": [
+        [
+            "",
+            {
+                "entities": [
+                    [
+                    ]
+                ]
+            }
+        ]
+    ]
+}

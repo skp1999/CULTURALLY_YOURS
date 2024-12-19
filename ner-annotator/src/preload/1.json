@@ -1,0 +1,37 @@
+{
+    "classes": [
+        "FAMILIAR",
+        "SOMEWHAT",
+        "AMBIGIOUS",
+        "UNFAMILIAR"
+    ],
+    "annotations": [
+        [
+            "In the quaint village of Suryapur, the bustling haat is alive with the chatter of local farmers selling fresh produce. Elderly villagers discuss the latest bhajan while children play with traditional kites during the Makar Sankranti festival. The aroma of freshly made rotis and pickles fills the air as people gather around to share tales of folk heroes. The local panchayat deliberates on community issues, reflecting the essence of rural life that contrasts sharply with the urban hustle of cities like Mumbai or Delhi, where towering skyscrapers and the fast-paced life of corporate offices dominate daily routines",
+            {
+                "entities": [
+                    [
+                        48,
+                        52,
+                        "SOMEWHAT"
+                    ],
+                    [
+                        156,
+                        162,
+                        "FAMILIAR"
+                    ],
+                    [
+                        217,
+                        232,
+                        "FAMILIAR"
+                    ],
+                    [
+                        366,
+                        375,
+                        "SOMEWHAT"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
