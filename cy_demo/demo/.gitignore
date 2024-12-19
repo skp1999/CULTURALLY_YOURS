@@ -6,3 +6,4 @@ outputs/
 .env
 users.json
 *.pyc
+.DS_Store
