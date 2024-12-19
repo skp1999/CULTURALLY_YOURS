@@ -1,8 +1,16 @@
 # NER Annotator Custom
 
-NER Annotator Custom is build on top of [NER Annotator](https://github.com/tecoholic/ner-annotator). 
-I changed the source code as per my custom requirements.
+A customizable Named Entity Recognition (NER) annotation tool built with Vue.js. This tool allows users to annotate text with entity labels and compare initial and updated annotations.
 
+## Usage
+
+1. **Start Page**: Upload or input text for annotation
+2. **Annotation Page**: 
+   - Select text to create entity annotations
+   - View and edit existing annotations
+   - Track added and removed spans
+   - View explanations for annotations
+3. **Comparison Page**: Compare initial and updated annotations side by side
 
 
 ## Development
@@ -23,18 +31,4 @@ yarn serve
 ```
 
 Now go to [http://localhost:8080/ner-annotator/](http://localhost:8080/ner-annotator/)
-
-### Developing the desktop application
-
-The desktop applications have been created using [Tauri](https://tauri.studio).
-
-```sh
-yarn tauri:serve
-```
-
-To build the final binaries run
-
-```sh
-yarn tauri:build
-```
 

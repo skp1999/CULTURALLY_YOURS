@@ -3,16 +3,6 @@
 Backend service to capture Cultural Spans from URL.
 
 
-## Key Features
-
-- Real-time text analysis for cultural context
-- Chrome extension for seamless web integration
-- Secure user authentication system
-- Multiple experimental backends for different analysis approaches
-- Powered by Azure OpenAI GPT models
-- MongoDB logging for production environment
-
-## Getting Started
 
 ### Prerequisites
 
