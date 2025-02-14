@@ -1,5 +1,5 @@
 # CULTURALLY YOURS: A Reading Assistant for Cross-Cultural Content
-[Paper](https://drive.google.com/file/d/13sFYQnhA1MtdSpWwsvMEXPZ5LUU5cNRg/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=OVbnilgHaCU) | [CY Tool](http://172.206.0.14:8080/)
+[Paper](https://drive.google.com/file/d/13sFYQnhA1MtdSpWwsvMEXPZ5LUU5cNRg/view?usp=sharing) | [Demo](https://www.youtube.com/watch?v=OVbnilgHaCU)
 
 *Saurabh Kumar Pandey, Harshit Budhiraja, Sougata Saha, Monojit Choudhury*\
 Accepted at [The 31st International Conference on Computational Linguistics (COLING 2025)](https://coling2025.org/)
